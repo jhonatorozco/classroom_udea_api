@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri:  mongodb://admin:cl4ssr00m@ds121696.mlab.com:21696/classroom_udea
+  hateoas:
+    use-hal-as-default-json-media-type: false
